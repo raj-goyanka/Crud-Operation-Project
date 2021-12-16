@@ -16,4 +16,8 @@ six==1.13.0
 social-auth-app-django==3.1.0
 social-auth-core==3.2.0
 sqlparse==0.3.0
+<<<<<<< HEAD
 urllib3==1.25.7
+=======
+urllib3==1.25.7
+>>>>>>> 7f0ac99dfeb3dd4f0ba0f7588416091278302dfe
